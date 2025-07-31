@@ -54,6 +54,8 @@ To run the script:
 ```bash
 ./prereq.sh
 ``` 
+Please make sure you avec access to the Conversational Analytics API. Use [this form](https://docs.google.com/forms/d/e/1FAIpQLSfb-vFXVDrQDij-nsnh2MsykBEAQtrSinunQQGaqqkcyBbYtA/viewform) to enroll to the preview 
+
 **During execution, the script will confirm your active Google Cloud Project ID.** If it\'s not already set in your `gcloud` configuration, the script will prompt you to enter it.
 
 ---
